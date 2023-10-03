@@ -14,5 +14,6 @@ public class Main {
         int [] array = SalaryEmployee.inputHours();
         double result = salary( array[0], array[1],array[2]);
         System.out.println("El salario total es: "+ result);
+        System.out.println("conflicto");
     }
 }
